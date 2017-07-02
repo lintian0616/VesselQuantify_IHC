@@ -27,9 +27,9 @@ The **Color3** channel contains most features of interest. We will convert this 
 * `Edit` -> `Invert`
 * Save the image as **TIFF** format (`mask.tif`)
 
-**Note:** You have to save the image as **TIFF** format.
+**Note:** You *have to* save the image as **TIFF** format.
 
-![Mask Binary](images/mask.tif)
+![Mask Binary](images/mask.jpg)
 
 ## Quantification Using Cell Profiler
 
